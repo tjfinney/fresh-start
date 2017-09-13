@@ -1,3 +1,0 @@
-# Foo
-
-Say foo.
