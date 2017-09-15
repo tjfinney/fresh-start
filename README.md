@@ -30,3 +30,10 @@ Edited `.gitignore`.
 
 Uncheck a couple of [project options](https://bookdown.org/yihui/blogdown/rstudio-ide.html#fig:project-options).
 
+# Push to GitHub
+
+Using RStudio's Git interface, use checkboxes to add files and directories, commit, then push to GitHub by pressing the Push button.
+
+# Deploy with Netlify
+
+Go to Netlify and [deploy](https://app.netlify.com/sites/freshstart/deploys). This assumes that Netlification has already been done.
