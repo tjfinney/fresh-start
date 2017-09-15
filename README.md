@@ -19,3 +19,14 @@ There is now a `fresh-start` directory at `~/Keep/www/freshstart.com.au/mk2/fres
 # Create new R project
 
 Use the top menu buttons in RStudio to select File -> New Project -> Existing Directory, browse to the `fresh-start` directory, then click on the Create Project button.
+
+Edited `.gitignore`.
+
+# Create new site
+
+`blogdown::new_site(theme = "devcows/hugo-universal-theme", theme_example = TRUE)`
+
+(Had to move Readme.md and .html to another place before doing this.)
+
+Uncheck a couple of [project options](https://bookdown.org/yihui/blogdown/rstudio-ide.html#fig:project-options).
+
