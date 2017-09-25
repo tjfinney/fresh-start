@@ -26,6 +26,104 @@ url = "/"
 
 [[menu.main]]
 weight = 2
+name = "About Us"
+url = "/about/"
+identifier = "about"
+  [[menu.main]]
+  parent = "about"
+  weight = 1
+  name = "Our Approach"
+  url = "/about/approach/"
+  [[menu.main]]
+  parent = "about"
+  weight = 2
+  name = "Our Stories"
+  url = "/about/stories/"
+  [[menu.main]]
+  parent = "about"
+  weight = 3
+  name = "Our Leadership"
+  url = "/about/leadership/"
+  [[menu.main]]
+  parent = "about"
+  weight = 4
+  name = "Annual Overview"
+  url = "/about/overview/"
+  [[menu.main]]
+  parent = "about"
+  weight = 5
+  name = "Subscribe"
+  url = "/about/subscribe/"
+  [[menu.main]]
+  parent = "about"
+  weight = 6
+  name = "Accreditations"
+  url = "/about/accreditations/"
+  [[menu.main]]
+  parent = "about"
+  weight = 7
+  name = "Privacy Statement"
+  url = "/about/privacy/"
+
+[[menu.main]]
+weight = 3
+name = "Services"
+url = "/services/"
+identifier = "services"
+  [[menu.main]]
+  parent = "services"
+  weight = 1
+  name = "Treatment Clinic"
+  url = "/services/treatment/"
+  [[menu.main]]
+  parent = "services"
+  weight = 2
+  name = "GP Clinic"
+  url = "/services/GP/"
+  [[menu.main]]
+  parent = "features"
+  weight = 3
+  name = "Two-column layout"
+  url = "/features/two-column-layout/"
+  [[menu.main]]
+  parent = "features"
+  weight = 4
+  name = "Tags"
+  url = "/features/tags/"
+
+[[menu.main]]
+weight = 4
+name = "More items"
+url = "/more/"
+identifier = "more"
+  [[menu.main]]
+  parent = "more"
+  weight = 1
+  name = "Some more menu"
+  url = "/more/some-more-menu/"
+  [[menu.main]]
+  parent = "more"
+  weight = 2
+  name = "items to show"
+  url = "/more/items-to-show/"
+  [[menu.main]]
+  parent = "more"
+  weight = 3
+  name = "the nested menus feature"
+  url = "/more/the-nested-menus-feature/"
+
+[[menu.main]]
+weight = 5
+name = "Blog"
+url = "/blog/"
+
+[[menu.main]]
+weight = 6
+name = "Contact"
+url = "/contact/"
+
+[[menu.main]]
+weight = 7
 name = "Features"
 url = "/features/"
 identifier = "features"
@@ -66,38 +164,3 @@ identifier = "features"
   name = "Tags"
   url = "/features/tags/"
 
-[[menu.main]]
-weight = 3
-name = "Another item"
-url = "/another/"
-
-[[menu.main]]
-weight = 4
-name = "More items"
-url = "/more/"
-identifier = "more"
-  [[menu.main]]
-  parent = "more"
-  weight = 1
-  name = "Some more menu"
-  url = "/more/some-more-menu/"
-  [[menu.main]]
-  parent = "more"
-  weight = 2
-  name = "items to show"
-  url = "/more/items-to-show/"
-  [[menu.main]]
-  parent = "more"
-  weight = 3
-  name = "the nested menus feature"
-  url = "/more/the-nested-menus-feature/"
-
-[[menu.main]]
-weight = 5
-name = "Blog"
-url = "/blog/"
-
-[[menu.main]]
-weight = 6
-name = "Contact"
-url = "/contact/"
