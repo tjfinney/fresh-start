@@ -25,6 +25,47 @@ url = "/"
 
 [[menu.main]]
 weight = 2
+name = "About Us"
+url = "/about/About"
+identifier = "about"
+  [[menu.main]]
+  parent = "about"
+  weight = 1
+  name = "Our Approach"
+  url = "/about/Approach/"
+  [[menu.main]]
+  parent = "about"
+  weight = 2
+  name = "Our Leadership"
+  url = "/about/Leadership/"
+  [[menu.main]]
+  parent = "about"
+  weight = 3
+  name = "Annual Overview"
+  url = "/about/Overview/"
+  [[menu.main]]
+  parent = "about"
+  weight = 4
+  name = "Publications"
+  url = "/about/Publications/"
+  [[menu.main]]
+  parent = "about"
+  weight = 5
+  name = "Subscribe"
+  url = "/about/Subscribe/"
+  [[menu.main]]
+  parent = "about"
+  weight = 6
+  name = "Accreditation"
+  url = "/about/Accreditation/"
+  [[menu.main]]
+  parent = "about"
+  weight = 7
+  name = "Privacy Statement"
+  url = "/about/Privacy/"
+
+[[menu.main]]
+weight = 3
 name = "Services"
 url = "/services/"
 identifier = "services"
@@ -69,46 +110,6 @@ identifier = "services"
   name = "Support Groups"
   url = "/services/Support/"
 
-[[menu.main]]
-weight = 3
-name = "About Us"
-url = "/about/"
-identifier = "about"
-  [[menu.main]]
-  parent = "about"
-  weight = 1
-  name = "Beginnings"
-  url = "/about/Beginnings/"
-  [[menu.main]]
-  parent = "about"
-  weight = 2
-  name = "Beliefs and Values"
-  url = "/about/Beliefs/"
-  [[menu.main]]
-  parent = "about"
-  weight = 3
-  name = "Leadership"
-  url = "/about/Leadership/"
-  [[menu.main]]
-  parent = "about"
-  weight = 4
-  name = "Publications"
-  url = "/about/Publications/"
-  [[menu.main]]
-  parent = "about"
-  weight = 5
-  name = "Subscribe"
-  url = "/about/subscribe/"
-  [[menu.main]]
-  parent = "about"
-  weight = 6
-  name = "Accreditations"
-  url = "/about/accreditations/"
-  [[menu.main]]
-  parent = "about"
-  weight = 7
-  name = "Privacy Statement"
-  url = "/about/privacy/"
 
 [[menu.main]]
 weight = 4
