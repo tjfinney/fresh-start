@@ -1,17 +1,16 @@
 languageCode = "en-us"
-title = "Crab"
+title = "Fresh Start"
 theme = "crab"
 baseurl = "/"
 
 [params]
-description = "A clean Hugo theme for websites"
-# logoimage = "images/logo.jpg"
-# copyright = "foo"
+description = "Everybody deserves a fresh start"
+logoimage = "/img/logo.png"
+#logoimage = "/img/benzo.jpg"
+copyright = "Fresh Start"
 
 # mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 ## Uncomment if you want mathjax enabled. The above cdn source is taken from https://gohugo.io/content-management/formats/#mathjax-with-hugo
-
-
 
 [permalinks]
 blog  = "/blog/:year/:month/:title/"
