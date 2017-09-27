@@ -25,29 +25,75 @@ url = "/"
 
 [[menu.main]]
 weight = 2
+name = "Services"
+url = "/services/"
+identifier = "services"
+  [[menu.main]]
+  parent = "services"
+  weight = 1
+  name = "Treatment Clinic"
+  url = "/services/Treatment/"
+  [[menu.main]]
+  parent = "services"
+  weight = 2
+  name = "GP Clinic"
+  url = "/services/GP/"
+  [[menu.main]]
+  parent = "services"
+  weight = 3
+  name = "Mental Health Care"
+  url = "/services/MHC/"
+  [[menu.main]]
+  parent = "services"
+  weight = 4
+  name = "Counselling"
+  url = "/services/Counselling/"
+  [[menu.main]]
+  parent = "services"
+  weight = 5
+  name = "Chaplaincy"
+  url = "/services/Chaplaincy/"
+  [[menu.main]]
+  parent = "services"
+  weight = 6
+  name = "Housing"
+  url = "/services/Housing/"
+  [[menu.main]]
+  parent = "services"
+  weight = 7
+  name = "Rehabilitation"
+  url = "/services/Rehabilitation/"
+  [[menu.main]]
+  parent = "services"
+  weight = 8
+  name = "Support Groups"
+  url = "/services/Support/"
+
+[[menu.main]]
+weight = 3
 name = "About Us"
 url = "/about/"
 identifier = "about"
   [[menu.main]]
   parent = "about"
   weight = 1
-  name = "Our Approach"
-  url = "/about/approach/"
+  name = "Beginnings"
+  url = "/about/Beginnings/"
   [[menu.main]]
   parent = "about"
   weight = 2
-  name = "Our Stories"
-  url = "/about/stories/"
+  name = "Beliefs and Values"
+  url = "/about/Beliefs/"
   [[menu.main]]
   parent = "about"
   weight = 3
-  name = "Our Leadership"
-  url = "/about/leadership/"
+  name = "Leadership"
+  url = "/about/Leadership/"
   [[menu.main]]
   parent = "about"
   weight = 4
-  name = "Annual Overview"
-  url = "/about/overview/"
+  name = "Publications"
+  url = "/about/Publications/"
   [[menu.main]]
   parent = "about"
   weight = 5
@@ -63,32 +109,6 @@ identifier = "about"
   weight = 7
   name = "Privacy Statement"
   url = "/about/privacy/"
-
-[[menu.main]]
-weight = 3
-name = "Services"
-url = "/services/"
-identifier = "services"
-  [[menu.main]]
-  parent = "services"
-  weight = 1
-  name = "Treatment Clinic"
-  url = "/services/treatment/"
-  [[menu.main]]
-  parent = "services"
-  weight = 2
-  name = "GP Clinic"
-  url = "/services/GP/"
-  [[menu.main]]
-  parent = "features"
-  weight = 3
-  name = "Two-column layout"
-  url = "/features/two-column-layout/"
-  [[menu.main]]
-  parent = "features"
-  weight = 4
-  name = "Tags"
-  url = "/features/tags/"
 
 [[menu.main]]
 weight = 4
