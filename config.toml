@@ -46,28 +46,23 @@ identifier = "about"
   [[menu.main]]
   parent = "about"
   weight = 4
-  name = "Publications"
-  url = "/about/Publications/"
-  [[menu.main]]
-  parent = "about"
-  weight = 5
   name = "Subscribe"
   url = "/about/Subscribe/"
   [[menu.main]]
   parent = "about"
-  weight = 6
+  weight = 5
   name = "Accreditation"
   url = "/about/Accreditation/"
   [[menu.main]]
   parent = "about"
-  weight = 7
+  weight = 6
   name = "Privacy Statement"
   url = "/about/Privacy/"
 
 [[menu.main]]
 weight = 3
 name = "Services"
-url = "/services/"
+url = "/services/Services"
 identifier = "services"
   [[menu.main]]
   parent = "services"
@@ -82,34 +77,43 @@ identifier = "services"
   [[menu.main]]
   parent = "services"
   weight = 3
+  name = "Detoxification"
+  url = "/services/Detoxification/"
+  [[menu.main]]
+  parent = "services"
+  weight = 4
+  name = "Hepatitis C Treatment"
+  url = "/services/HCT/"
+  [[menu.main]]
+  parent = "services"
+  weight = 5
   name = "Mental Health Care"
   url = "/services/MHC/"
   [[menu.main]]
   parent = "services"
-  weight = 4
+  weight = 6
   name = "Counselling"
   url = "/services/Counselling/"
   [[menu.main]]
   parent = "services"
-  weight = 5
+  weight = 7
   name = "Chaplaincy"
   url = "/services/Chaplaincy/"
   [[menu.main]]
   parent = "services"
-  weight = 6
+  weight = 8
   name = "Housing"
   url = "/services/Housing/"
   [[menu.main]]
   parent = "services"
-  weight = 7
+  weight = 9
   name = "Rehabilitation"
   url = "/services/Rehabilitation/"
   [[menu.main]]
   parent = "services"
-  weight = 8
+  weight = 10
   name = "Support Groups"
   url = "/services/Support/"
-
 
 [[menu.main]]
 weight = 4

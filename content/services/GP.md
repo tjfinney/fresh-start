@@ -4,6 +4,8 @@ date: 2017-09-25T18:22:07+08:00
 draft: true
 ---
 
+[Make an appointment](/contact) to see one of our doctors.
+
 All Fresh Start patients have access to general health services through our GP clinic. The GP clinic is open four days a week (Mondays, Tuesdays, Thursdays and Fridays). In addition to this, patients have access to counselling, mental health and chaplaincy service, and are able to make an appointment on any of these days. Our Hepatitis C treatment clinic usually takes place on Tuesdays.
 
 We encourage our patients to see their own doctor, but all Fresh Start patients have access to our team of General Practitioners.

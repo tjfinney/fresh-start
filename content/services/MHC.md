@@ -4,6 +4,7 @@ date: 2017-09-25T18:14:08+08:00
 draft: true
 ---
 
+[Make an appointment](/contact) to see one of our Psychologists or Mental Health Nurses.
 
 ## Psychology Services
 
