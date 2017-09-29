@@ -117,24 +117,29 @@ identifier = "services"
 
 [[menu.main]]
 weight = 4
-name = "More items"
-url = "/more/"
-identifier = "more"
+name = "Information"
+url = "/info/Information"
+identifier = "information"
   [[menu.main]]
-  parent = "more"
+  parent = "information"
   weight = 1
-  name = "Some more menu"
-  url = "/more/some-more-menu/"
+  name = "Opiates"
+  url = "/info/Opiates/"
   [[menu.main]]
-  parent = "more"
+  parent = "information"
   weight = 2
-  name = "items to show"
-  url = "/more/items-to-show/"
+  name = "Amphetamines"
+  url = "/info/Amphetamines/"
   [[menu.main]]
-  parent = "more"
+  parent = "information"
   weight = 3
-  name = "the nested menus feature"
-  url = "/more/the-nested-menus-feature/"
+  name = "Benzodiazepines"
+  url = "/info/Benzodiazepines/"
+  [[menu.main]]
+  parent = "information"
+  weight = 4
+  name = "Alcohol"
+  url = "/info/Alcohol/"
 
 [[menu.main]]
 weight = 5
