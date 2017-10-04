@@ -5,12 +5,14 @@ draft = false
 
 +++
 
+{{% summary %}}
 * [Our Approach](/about/approach)
 * [Our Leadership](/about/leadership)
 * [Annual Overview](/about/overview)
 * [Subscribe](/about/subscribe)
 * [Accreditation](/about/accreditation)
 * [Privacy Statement](/about/privacy)
+{{% /summary %}}
 
 Fresh Start Recovery Programme grew out of a commitment to help drug users and their families recover from drug dependence. Fresh Start concentrates on detox and developing a drug free lifestyle.
 

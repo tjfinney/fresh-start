@@ -5,6 +5,7 @@ draft = false
 
 +++
 
+{{% summary %}}
 * [Treatment Clinic](/services/treatment)
 * [GP Clinic](/services/gp)
 * [Detoxification](/services/detoxification)
@@ -15,5 +16,6 @@ draft = false
 * [Housing](/services/housing)
 * [Rehabilitation](/services/rehabilitation)
 * [Support Groups](/services/support)
+{{% /summary %}}
 
 Sometimes abstinence alone isn’t enough to overcome addiction. That’s why Fresh Start Recovery Programme offers medical and allied health treatments for addiction.

@@ -16,9 +16,9 @@ The damage caused by an inability to control drinking manifests in many ways. Al
 
 ## Are you alcohol dependent?
 
-The **CAGE** questionnaire is a tool used to assess people for alcohol problems, including dependence. It involves four simple questions. If you answer two or more of these as a yes, you could be alcohol dependant and need to speak to someone about it.
+The **CAGE** questionnaire is a tool used to assess people for alcohol problems, including dependence. It involves four simple questions. If you answer two or more of these as a yes, you could be alcohol dependent and need to speak to someone about it.
 
-1. Do you ever feel like you should **Cut** down your drinking?
+1. Do you ever feel like you should **Cut down** your drinking?
 2. Do you ever feel **Angry or Annoyed** when people try to talk to you about drinking?
 3. Do you ever feel **Guilty** as a consequence of drinking?
 4. Do you ever need an **Eye opener** -- a drink of alcohol in the morning -- before you can function?

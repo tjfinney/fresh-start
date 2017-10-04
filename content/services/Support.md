@@ -1,18 +1,20 @@
 ---
 title: "Support Groups"
 date: 2017-09-25T18:14:08+08:00
-draft: true
+draft: false
 ---
 
 Getting free from drugs offers you a fresh start,
 but it's just the first step...
 
-> Take this opportunity to
-> change your mindset,
-> expand your community,
-> connect with people who care,
-> share your wisdom,
-> and support others on the journey.
+```
+Take this opportunity to
+change your mindset,
+expand your community,
+connect with people who care,
+share your wisdom,
+and support others on the journey.
+```
 
 ## Fresh Start Community Groups
 
