@@ -1,7 +1,7 @@
 ---
 title: "Treatment Clinic"
 date: 2017-09-25T18:14:08+08:00
-draft: true
+draft: false
 ---
 
 [Make an appointment](/contact) to see one of our doctors.

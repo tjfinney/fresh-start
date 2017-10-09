@@ -190,4 +190,4 @@ url = "/careers/"
 [[menu.main]]
 weight = 8
 name = "Contact"
-url = "/contact/"
+url = "/contact/Contact"

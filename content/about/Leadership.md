@@ -1,7 +1,7 @@
 ---
 title: "The Board"
 date: 2017-09-25T18:34:35+08:00
-draft: true
+draft: false
 ---
 
 ## G.A.D (Sandy) Clarkson - Chairman
