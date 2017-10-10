@@ -1,5 +1,49 @@
-{{ partial "header.html" . }}
-  {{ range where .Data.Pages "Title" "Home" }}
-    {{ .Content }}
-  {{ end }}
-{{ partial "footer.html" . }}
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">{{ partial "header.html" . }}</header>
+      <div class="panel panel-carousel">{{ partial "carousel.html" . }}</div>
+      <div class="panel panel-wide">
+        <h2>Who we are</h2>
+        <p>Fresh Start is a not for profit organisation helping families break the cycle of addiction.</p>
+        <a href="/about/about">FIND OUT MORE</a>
+      </div>
+      <div class="panel panel-wide">
+        <h2>Help for people with addictions</h2>
+        <a href="/services/treatment">GET HELP</a>
+      </div>
+      <div class="panel panel-tall">
+        <p>Dr George O'Neil</p>
+        <a href="/services/treatment/"><img src="/img/George-ONeil.jpg"></img></a>
+        <p>Addiction Medicine Specialist</p>
+        <p>Medical Director</p>
+      </div>
+      <div class="panel panel-wide">
+        <h2>Northam Greeting Cards</h2>
+        <h3>For Sale!</h3>
+        <a href="/support/cards/">GET CARDS</a>
+      </div>
+      <div class="panel panel-wide">
+        <h2>Rehabilitation</h2>
+        <a href="/services/rehabilitation/">MORE INFO</a>
+      </div>
+      <div class="panel panel-wide">
+        <h2>Want to be drug free?</h2>
+        <a href="/services/treatment/">MAKE A FRESH START</a>
+      </div>
+      <div class="panel panel-wide">
+        <h2>Help us change lives!</h2>
+        <a href="https://register.freshstart.org.au/?mode=freshdon">MAKE A DONATION</a>
+      </div>
+      <div class="panel">
+        <a href="https://www.facebook.com/fresh.start.recovery.programme/">Like us on facebook</a>
+      </div>
+      <footer class="footer">{{ partial "footer.html" . }}</footer>
+    </div>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

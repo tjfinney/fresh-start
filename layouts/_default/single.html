@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "h.html" . }}
 {{ if hasPrefix .URL "/news/" }}
 <p class="timestamp">{{ .Date.Format "January 2, 2006" }}</p>
 {{ end }}
@@ -6,4 +6,4 @@
 {{ if .Params.tags }}
   {{ partial "tags" .Params.tags }}
 {{ end }}
-{{ partial "footer.html" . }}
+{{ partial "f.html" . }}

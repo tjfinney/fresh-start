@@ -10,7 +10,7 @@ Fresh Start Recovery Programme offers specialist addiction treatment (detox and 
 
 ## Addiction Medicine Specialist and Medical Director
 
-Dr George O'Neil MBBS, FRCOG, FRACOG, DDU, FAChAM, CitWA
+Dr George O'Neil MBBS, FAChAM, FRANZCOG, FROCOG, DDU, CitWA
 
 ![George O'Neil](/img/George-ONeil.jpg)
 
