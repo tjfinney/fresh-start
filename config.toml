@@ -6,7 +6,6 @@ baseurl = "/"
 [params]
 description = "Everybody deserves a fresh start"
 logoimage = "/img/logo.png"
-#logoimage = "/img/benzo.jpg"
 copyright = "Fresh Start"
 
 # mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
@@ -191,3 +190,6 @@ url = "/careers/"
 weight = 8
 name = "Contact"
 url = "/contact/Contact"
+
+[params.carousel]
+    enable = true

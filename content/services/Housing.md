@@ -1,7 +1,7 @@
 ---
 title: "Housing"
 date: 2017-09-25T18:14:08+08:00
-draft: true
+draft: false
 ---
 
 Our patients go through several stages in recovery and their accommodation needs can change at each stage. We believe providing these residential facilities helps prevent our clients slipping back into drug use.

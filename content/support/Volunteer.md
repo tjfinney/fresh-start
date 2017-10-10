@@ -1,7 +1,7 @@
 ---
 title: "Volunteer"
 date: 2017-09-29T15:18:52+08:00
-draft: true
+draft: false
 ---
 
 Fresh Start Recovery Programme is committed to excellent service to both our clients and the wider community. Delivering this service would not be possible without the help of our committed volunteers.

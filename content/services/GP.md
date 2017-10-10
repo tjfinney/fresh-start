@@ -1,7 +1,7 @@
 ---
 title: "GP Clinic"
 date: 2017-09-25T18:22:07+08:00
-draft: true
+draft: false
 ---
 
 [Make an appointment](/contact) to see one of our doctors.

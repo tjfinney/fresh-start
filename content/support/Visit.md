@@ -1,7 +1,7 @@
 ---
 title: "Invite Us To Visit"
 date: 2017-09-29T15:18:45+08:00
-draft: true
+draft: false
 ---
 
 Fresh Start would be delighted to visit your community group or church or come to a gathering in your home. We have a number of presentations that are suitable for different settings, such as:
