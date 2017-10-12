@@ -9,6 +9,7 @@ draft: false
 * [Amphetamines](/info/amphetamines)
 * [Benzodiazepines](/info/benzodiazepines)
 * [Alcohol](/info/alcohol)
+* [More](/info/more)
 {{% /summary %}}
 
 Fresh Start patients include people who are dependent on various substances and, frequently, a combination of more than one substance.

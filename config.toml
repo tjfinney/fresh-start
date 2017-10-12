@@ -139,6 +139,11 @@ identifier = "information"
   weight = 4
   name = "Alcohol"
   url = "/info/Alcohol/"
+  [[menu.main]]
+  parent = "information"
+  weight = 5
+  name = "More"
+  url = "/info/More/"
 
 [[menu.main]]
 weight = 5
