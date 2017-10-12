@@ -300,7 +300,7 @@ ul.pagination {
   grid-column-end: span 2;
 }
 
-.header, .carousel, .footer {
+.header, .slides, .footer {
   margin-left: 5px;
   margin-right: 5px;
   flex: 0 1 100%;
