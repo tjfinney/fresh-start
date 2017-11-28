@@ -20,4 +20,4 @@ draft: false
 * TV
 * new kitchen.
 
-Please [contact us](/contact) if you would like to donate any of these or if you have any other items you think would be useful to Fresh Start. All donations are greatly appreciated and help us to continue our work helping families with addictions.
+Please [contact us](/contact/contact) if you would like to donate any of these or if you have any other items you think would be useful to Fresh Start. All donations are greatly appreciated and help us to continue our work helping families with addictions.

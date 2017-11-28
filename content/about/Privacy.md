@@ -59,7 +59,7 @@ You may request access to your personal information at any time by telephone, in
 
 ## When should you contact Fresh Start?
 
-Please feel free to [contact us](/contact/) in the following circumstances:
+Please feel free to [contact us](/contact/contact) in the following circumstances:
 
 * any of your personal information details have changed;
 * you have queries about Fresh Start's privacy policy;

@@ -10,7 +10,7 @@ Your Will enables you to make provision for your family, friends and other benef
 
 It is important to ensure your Will is current, valid and sets out your wishes clearly. Changes in your circumstances, such as relationship status, major illness, financial position, and births or deaths in your family, will require a review of your Will.
 
-In your Will you can offer the gift of part or all of the residue of your estate, or an amount for a specified purpose (e.g. capital works or treatment services). You can [contact us](/contact) for suggested wording.
+In your Will you can offer the gift of part or all of the residue of your estate, or an amount for a specified purpose (e.g. capital works or treatment services). You can [contact us](/contact/contact) for suggested wording.
 
 Planning for the future is important for any charity that is dependent on donations. While there is no obligation to do so, letting us know you have chosen to include us in your Will greatly assists our planning. It also gives us the opportunity to thank you. If you have made a bequest, please do let us know. We would be happy to discuss any aspect of making a bequest to Fresh Start Recovery Programme.
 

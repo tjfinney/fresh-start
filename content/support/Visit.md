@@ -10,4 +10,4 @@ Fresh Start would be delighted to visit your community group or church or come t
 * “Helping families avoid addictions” (presented by one of our senior staff)
 * “Why do children from good families still get addicted?” (presented by one of our doctors).
 
-Our CEO and chaplains are also available to preach or present a “spot” during a Sunday service. Please [contact us](/contact) for more information or to make a booking.
+Our CEO and chaplains are also available to preach or present a “spot” during a Sunday service. Please [contact us](/contact/contact) for more information or to make a booking.

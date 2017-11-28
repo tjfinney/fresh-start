@@ -27,7 +27,7 @@ Online
 : Donations via credit card can be made online. Please click here to donate now.
 
 By phone
-: Donations via credit card can be made over the [phone](/contact).
+: Donations via credit card can be made over the [phone](/contact/contact).
 
 By post
 : Please use our [printable donation slip](/docs/donation.pdf) if you wish to donate via credit card, cash or cheque. Fill in the details and return to:

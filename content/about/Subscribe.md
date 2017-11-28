@@ -5,6 +5,6 @@ draft = false
 
 +++
 
-Click to [sign up](https://register.freshstart.org.au/?mode=freshnews) to our publication mailing list.
+Click here to [sign up](https://register.freshstart.org.au/?mode=freshnews) to our publication mailing list.
 
 For copies of our past publications or brochures please email us at [info@freshstart.org.au](mailto:info@freshstart.org.au).

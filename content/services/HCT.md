@@ -4,7 +4,7 @@ date: 2017-09-25T18:14:08+08:00
 draft: false
 ---
 
-[Make an appointment](/contact) to see our Hepatitis C Specialist Nurse.
+[Make an appointment](/contact/contact) to see our Hepatitis C Specialist Nurse.
 
 ## What is hepatitis C?
 

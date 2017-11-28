@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-[Make an appointment](/contact) to see one of our doctors.
+[Make an appointment](/contact/contact) to see one of our doctors.
 
 Detoxifying from opiates has some unpleasant symptoms including insomnia, restlessness, pain, fatigue and diarrhoea. If someone detoxifies with no medication, the process and its symptoms will last for 3 to 14 days, or even longer, depending on the amount and type of opiate the person has been using.
 
