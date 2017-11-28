@@ -14,4 +14,4 @@ Among the valuable services our volunteers provide are:
 * preparing food for patients on treatment days
 * taking part in busy bees to freshen up and maintain the residential housing.
 
-Please contact our Volunteer Coordinator, Judy, on 08 9381 1333 if you would like to make a difference in the community and help give people a fresh start in life. Download our [Volunteer Your Time](/docs/volunteer.pdf) brochure for more information.
+Please contact our Manager of Volunteer Services, Judy, on 08 9381 1333 if you would like to make a difference in the community and help give people a fresh start in life. Download our [Volunteer Your Time](/docs/volunteer.pdf) brochure for more information.

@@ -6,9 +6,9 @@ draft: false
 
 Our patients go through several stages in recovery and their accommodation needs can change at each stage. We believe providing these residential facilities helps prevent our clients slipping back into drug use.
 
-## Harborne House
+## Warwick House
 
-Harborne House is a short term safe environment for patients in acute stages of pre- and post-detoxification and recovery. Twentyfour hour care and medical assistance is provided.
+Warwick House is a short term safe environment for patients in acute stages of pre- and post-detoxification and recovery. Twentyfour hour care and medical assistance is provided.
 
 ## Transitional Housing
 

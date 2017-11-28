@@ -8,14 +8,14 @@ draft: false
 
 * Art supplies for the residents to use (e.g. paint, card, paint brushes).
 
-## Small Items for Harborne House
+## Small Items for Warwick House
 
 * Board games
 * Toiletries for patients (toothbrushes, toothpaste, soap, shampoo, deodorant)
 * Non-perishable food items
 * Bedding (e.g. doonas, doona covers, sheets, pillows, pillow cases).
 
-## Big Items for Harborne House
+## Big Items for Warwick House
 
 * TV
 * new kitchen.
