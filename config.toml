@@ -5,7 +5,7 @@ baseurl = "/"
 
 [params]
 description = "Everybody deserves a fresh start"
-logoimage = "/img/logo.png"
+logoimage = "img/logo.png"
 copyright = "Fresh Start"
 
 # mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
