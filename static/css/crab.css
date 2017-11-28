@@ -87,7 +87,6 @@ nav a:hover {
 }
 
 #content,
-#footer,
 hr {
   border-top: 1px dashed #aaa;
 }
@@ -344,6 +343,14 @@ ul.pagination {
   background-image: url('/img/home/cards.jpg');
 }
 
+.home-contact {
+  background-image: url('/img/home/contact.jpg');
+}
+
+.home-counselling {
+  background-image: url('/img/home/counselling.jpg');
+}
+
 .home-fb {
   padding: 0;
 }
@@ -352,11 +359,19 @@ ul.pagination {
   background-image: url('/img/home/help.jpg');
 }
 
+.home-newsletter {
+  background-image: url('/img/home/newsletter.jpg');
+}
+
 .home-rehabilitation {
   background-image: url('/img/home/rehabilitation.jpg');
 }
 
 .home-specialist {
   background-image: url('/img/home/specialist.jpg');
+}
+
+.home-volunteer {
+  background-image: url('/img/home/volunteer.jpg');
 }
 

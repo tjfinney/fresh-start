@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Fresh Start</title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on Fresh Start</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fresh Start</copyright>
+    <lastBuildDate>Fri, 29 Sep 2017 15:25:33 +0800</lastBuildDate>
+    
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Northam Recovery Centre</title>
+      <link>/contact/nrc/</link>
+      <pubDate>Fri, 29 Sep 2017 15:25:33 +0800</pubDate>
+      
+      <guid>/contact/nrc/</guid>
+      <description>Phone: (08) 9621 2691
+Email: nrc@freshstart.org.au</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/contact/</link>
+      <pubDate>Mon, 25 Sep 2017 17:55:17 +0800</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description>Fresh Start Recovery Programme ABN: 84 106 876 019
+65 Townshend Road Subiaco Western Australia 6008  Ph: (08) 9381 1333 Fax: (08) 9388 7073  Email: info@freshstart.org.au
+
+View Larger Map</description>
+    </item>
+    
+  </channel>
+</rss>

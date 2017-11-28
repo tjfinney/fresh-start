@@ -4,7 +4,7 @@ date: 2017-09-25T18:14:08+08:00
 draft: false
 ---
 
-[Make an appointment](/contact) to see one of our doctors.
+[Make an appointment](/contact/contact) to see one of our doctors.
 
 Fresh Start Recovery Programme offers specialist addiction treatment (detox and relapse prevention) on Wednesdays and Saturdays (excluding long weekends). Treatments for sedative dependence are typically started on Fridays.
 

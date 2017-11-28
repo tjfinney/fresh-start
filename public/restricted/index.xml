@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restricteds on Fresh Start</title>
+    <link>/restricted/</link>
+    <description>Recent content in Restricteds on Fresh Start</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fresh Start</copyright>
+    <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/restricted/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Restricted topics</title>
+      <link>/restricted/restricted/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/restricted/restricted/</guid>
+      <description>We are not permitted to make this information available without your express consent. Please leave this page unless you wish to view restricted topics.
+ Topic 1 Topic 2  </description>
+    </item>
+    
+    <item>
+      <title>Topic 1</title>
+      <link>/restricted/topic1/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/restricted/topic1/</guid>
+      <description>This topic is not yet written.
+Return to restricted topics.</description>
+    </item>
+    
+    <item>
+      <title>Topic 2</title>
+      <link>/restricted/topic2/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/restricted/topic2/</guid>
+      <description>This topic is not yet written.
+Return to restricted topics.</description>
+    </item>
+    
+  </channel>
+</rss>

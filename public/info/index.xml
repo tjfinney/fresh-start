@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos on Fresh Start</title>
+    <link>/info/</link>
+    <description>Recent content in Infos on Fresh Start</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fresh Start</copyright>
+    <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting more information</title>
+      <link>/info/more/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/info/more/</guid>
+      <description>Please contact us if you would like some more information about Fresh Start and its programs.
+Restricted topics Information is available on certain restricted topics.
+By clicking this link I acknowledge that I want to view the restricted topics.</description>
+    </item>
+    
+    <item>
+      <title>Alcohol</title>
+      <link>/info/alcohol/</link>
+      <pubDate>Fri, 29 Sep 2017 12:02:29 +0800</pubDate>
+      
+      <guid>/info/alcohol/</guid>
+      <description>Alcohol harm The Australian National Drug Strategy Household Survey found that over 80% of the population drinks alcohol. Not all of this is harmful, but 10% of people drink alcohol in a way that risks long-term harm and 21% drink at least once a month in a way that risks short-term harm. Excess alcohol is capable of damaging nearly every organ and system in the body.
+Alcohol use is also a major cause of deaths in Australia.</description>
+    </item>
+    
+    <item>
+      <title>Amphetamines</title>
+      <link>/info/amphetamines/</link>
+      <pubDate>Fri, 29 Sep 2017 12:02:29 +0800</pubDate>
+      
+      <guid>/info/amphetamines/</guid>
+      <description>What are amphetamine-type stimulants? Amphetamine type stimulants (ATS) include amphetamines, methamphetamine, MDMA (ecstasy) and dexamphetamine. They work by increasing levels of serotonin, dopamine and norepinephrine in the brain:
+ Serotonin is involved in controlling anger, aggression, body temperature, mood, sleep, sexual feelings, appetite and metabolism. Dopamine is involved in behaviour and thought, movement, motivation and reward. It also inhibits prolactin production which is involved in lactation, sleep, mood, attention and learning.</description>
+    </item>
+    
+    <item>
+      <title>Benzodiazepines</title>
+      <link>/info/benzodiazepines/</link>
+      <pubDate>Fri, 29 Sep 2017 12:02:29 +0800</pubDate>
+      
+      <guid>/info/benzodiazepines/</guid>
+      <description>Benzodiazepines include diazepam (Valium), alprazolam (Xanax), midazolam, oxazepam (Serepax), temazepam and nitrazepam (Mogadon). Benzodiazepines are prescription drugs and many people who have become addicted to them did so after a doctor prescribed them.
+Benzodiazepines reduce anxiety. However, people who use them for some time often find they need higher and higher doses to achieve the same effect. This is because prolonged use makes the receptors in the brain that detect them less sensitive.</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>/info/information/</link>
+      <pubDate>Fri, 29 Sep 2017 12:02:29 +0800</pubDate>
+      
+      <guid>/info/information/</guid>
+      <description>Opiates Amphetamines Benzodiazepines Alcohol More   Fresh Start patients include people who are dependent on various substances and, frequently, a combination of more than one substance.
+Please contact the clinic for more information about substances and their effects.</description>
+    </item>
+    
+    <item>
+      <title>Opiates</title>
+      <link>/info/opiates/</link>
+      <pubDate>Fri, 29 Sep 2017 12:02:29 +0800</pubDate>
+      
+      <guid>/info/opiates/</guid>
+      <description>Opiates and opiate antagonists Opiates, including heroin, methadone, opium, morphine and codeine, work by binding to the opioid receptors in the brain. The opioid receptors also detect the body’s own naturally-occurring chemicals such as endorphins. Opiates are drugs derived from opium. There are also a number of synthetic opioids including methadone and buprenorphine.
+When a person regularly uses a drug like heroin or morphine, the opioid receptors in the brain become much less sensitive.</description>
+    </item>
+    
+  </channel>
+</rss>

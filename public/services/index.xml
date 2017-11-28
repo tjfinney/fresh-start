@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Fresh Start</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Fresh Start</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fresh Start</copyright>
+    <lastBuildDate>Mon, 25 Sep 2017 18:22:07 +0800</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GP Clinic</title>
+      <link>/services/gp/</link>
+      <pubDate>Mon, 25 Sep 2017 18:22:07 +0800</pubDate>
+      
+      <guid>/services/gp/</guid>
+      <description>Make an appointment to see one of our doctors.
+All Fresh Start patients have access to general health services through our GP clinic. The GP clinic is open four days a week (Mondays, Tuesdays, Thursdays and Fridays). In addition to this, patients have access to counselling, mental health and chaplaincy service, and are able to make an appointment on any of these days. Our Hepatitis C treatment clinic usually takes place on Tuesdays.</description>
+    </item>
+    
+    <item>
+      <title>Chaplaincy</title>
+      <link>/services/chaplaincy/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/chaplaincy/</guid>
+      <description>Fresh Start has a team of chaplains who, upon request, provide chaplaincy and spiritual care for patients and their families. Our rehabilitation program is based on Christian beliefs and values. It uses a Christian version of ‘The Twelve Steps’ in conjunction with The Life Recovery Bible.</description>
+    </item>
+    
+    <item>
+      <title>Counselling</title>
+      <link>/services/counselling/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/counselling/</guid>
+      <description>The Fresh Start Recovery counselling team consists of four professionally trained staff (male and female) providing a range of services and approaches geared toward individuals, couples and families.
+Our service helps people address their substance use and the impact it may be having on their lives. Alcohol and other drug use can adversely affect relationships, health, work, mental state and other areas of life. Counselling aims to help people with addictions to focus on underlying issues that have previously contributed to continued drug use and subsequent relapse.</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis C Treatment</title>
+      <link>/services/hct/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/hct/</guid>
+      <description>Make an appointment to see our Hepatitis C Specialist Nurse.
+What is hepatitis C? Hepatitis C is a viral illness that damages the liver and is caused specifically by the Hepatitis C virus (HCV).
+Currently, in Australia, one person in every hundred has the Hepatitis C virus, and there is no vaccine for Hepatitis C. HCV infection is classified as an epidemic world-wide.
+The virus is spread by blood-to-blood contact so you can get the Hepatitis C virus if an infected person&amp;rsquo;s blood comes into contact with your own.</description>
+    </item>
+    
+    <item>
+      <title>Housing</title>
+      <link>/services/housing/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/housing/</guid>
+      <description>Our patients go through several stages in recovery and their accommodation needs can change at each stage. We believe providing these residential facilities helps prevent our clients slipping back into drug use.
+Harborne House Harborne House is a short term safe environment for patients in acute stages of pre- and post-detoxification and recovery. Twentyfour hour care and medical assistance is provided.
+Transitional Housing Fresh Start has limited transitional housing available for clients.</description>
+    </item>
+    
+    <item>
+      <title>Mental Health Care</title>
+      <link>/services/mhc/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/mhc/</guid>
+      <description>Make an appointment to see one of our Psychologists or Mental Health Nurses.
+Psychology Services Fresh Start psychologists offer a more specialised approach to dealing with problems of addiction. Our psychologists have a comprehensive understanding of behavioural and mental processes and offer a range of techniques to address client issues. Please note that sessions with our psychologists are limited in number, however our counsellors and mental health nurses are able to provide longer term support to individuals and families.</description>
+    </item>
+    
+    <item>
+      <title>Rehabilitation</title>
+      <link>/services/rehabilitation/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/rehabilitation/</guid>
+      <description>Northam Recovery Program Fresh Start has two residential rehabilitation properties for men located in Northam. Our program is a Modified Therapeutic Community model in which the community itself is the principal means for promoting personal change through self-help and mutual support. Residents begin their journey at Northam Recovery Centre, graduating to The Hill when ready.
+Northam Recovery Centre This three story building located in Northam has sleeping quarters for up to 40 men, common areas, garden area, chicken shed and vegetable patch.</description>
+    </item>
+    
+    <item>
+      <title>Support Groups</title>
+      <link>/services/support/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/support/</guid>
+      <description>Getting free from drugs offers you a fresh start, but it&amp;rsquo;s just the first step&amp;hellip;
+Take this opportunity to change your mindset, expand your community, connect with people who care, share your wisdom, and support others on the journey.  Fresh Start Community Groups Fresh Start Community Groups (Recovery Circles) are for people in recovery, carers and supporters. There&amp;rsquo;s room for everyone. The Groups are located at key spots around the city for your convenience.</description>
+    </item>
+    
+    <item>
+      <title>Treatment Clinic</title>
+      <link>/services/treatment/</link>
+      <pubDate>Mon, 25 Sep 2017 18:14:08 +0800</pubDate>
+      
+      <guid>/services/treatment/</guid>
+      <description>Make an appointment to see one of our doctors.
+Fresh Start Recovery Programme offers specialist addiction treatment (detox and relapse prevention) on Wednesdays and Saturdays (excluding long weekends). Treatments for sedative dependence are typically started on Fridays.
+Addiction Medicine Specialist and Medical Director Dr George O&amp;rsquo;Neil MBBS, FAChAM, FRANZCOG, FROCOG, DDU, CitWA
+Dr O&amp;rsquo;Neil is a Fellow of the Australian Chapter of Addiction Medicine within the Adult Medicine Division of the Royal Australian College of Physicians.</description>
+    </item>
+    
+    <item>
+      <title>Detoxification</title>
+      <link>/services/detoxification/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>/services/detoxification/</guid>
+      <description>Make an appointment to see one of our doctors.
+Detoxifying from opiates has some unpleasant symptoms including insomnia, restlessness, pain, fatigue and diarrhoea. If someone detoxifies with no medication, the process and its symptoms will last for 3 to 14 days, or even longer, depending on the amount and type of opiate the person has been using.
+Fresh Start uses a form of accelerated opiate detox which significantly reduces the withdrawal period.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/services/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>/services/services/</guid>
+      <description>Treatment Clinic GP Clinic Detoxification Hepatitis C Treatment Mental Health Care Counselling Chaplaincy Housing Rehabilitation Support Groups   Sometimes abstinence alone isn’t enough to overcome addiction. That’s why Fresh Start Recovery Programme offers medical and allied health treatments for addiction.</description>
+    </item>
+    
+  </channel>
+</rss>

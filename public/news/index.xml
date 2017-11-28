@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Fresh Start</title>
+    <link>/news/</link>
+    <description>Recent content in News on Fresh Start</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Fresh Start</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Message from the CEO</title>
+      <link>/news/2017/07/message/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/07/message/</guid>
+      <description>On 16th June, Fresh Start celebrated 20 years of helping families with addictions. What Dr George O’Neil began in 1997 as a specialised service to mothers and babies struggling with addiction to heroin and methadone has grown steadily and now looks after more than 1000 men and women every year. We currently provide care and treatment for opiate, amphetamine, benzodiazepine and alcohol addictions. To date more than 11,000 people have been helped by Fresh Start in Subiaco.</description>
+    </item>
+    
+    <item>
+      <title>Admission to the Northam Recovery Program</title>
+      <link>/news/2017/07/nrp/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/07/nrp/</guid>
+      <description>At Fresh Start we recommend that our clients participate in a Rehabilitation Program after treatment. It removes those struggling with addiction from their old ways of life and places them into a facility that offers 24&amp;frasl;7 care. In-house recovery programs help to eliminate stress by removing the individual from temptation and reducing the chance of relapse.
+Northam Recovery Program (NRP) offers a comprehensive residential program focused on men’s recovery. Residents will begin their journey at Northam Recovery Centre until they are able to graduate to The Hill a farm based centre 8kms from Northam.</description>
+    </item>
+    
+    <item>
+      <title>Fresh Start graduate completes Law degree</title>
+      <link>/news/2017/07/graduate/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/07/graduate/</guid>
+      <description>The committed and brave life of Chris O&amp;rsquo;Donoghue illustrates the long, hard road a drug addict takes to drive out their cravings. In 2007 Chris arrived on Fresh Start’s doorstep in the depths of addiction, only recovering after three years of treatment. He went on to volunteer at Fresh Start and eventually became a paid employee. In 2010 he returned to his family and friends in Queensland. As Chris recounts,</description>
+    </item>
+    
+    <item>
+      <title>Hepatitis Clinic Highlights</title>
+      <link>/news/2017/07/highlights/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/07/highlights/</guid>
+      <description>The past 12 months has been a very exciting time for our Hepatitis Clinic and we have successfully treated over 100 patients for Hepatitis C with the newly released, directly acting anti-viral tablets that are both well tolerated and highly effective. Dr Wendy Lawrence and specialist Hepatitis nurse Julie Stove work closely to provide the clinical support needed by the 55 people currently in treatment.
+Streamlined services to clients offer:</description>
+    </item>
+    
+    <item>
+      <title>UWA clinical trial on Fresh Start&#39;s Smoking Cessation Spray</title>
+      <link>/news/2017/07/trial/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2017/07/trial/</guid>
+      <description>The University of Western Australia is part-way through a clinical trial, testing a new Smoking Cessation Spray invented by Dr George O’Neil. A preliminary study involving ten Fresh Start clients indicated that the spray significantly reduces anxiety and the urge to smoke. These initial findings were promising enough to initiate a larger, randomized placebo-controlled trial.
+Early participants in the trial have commented that “Using the active spray I felt much more chilled and didn’t even feel like having a cigarette” and “Since participating in the trial I feel way more confident about quitting smoking.</description>
+    </item>
+    
+  </channel>
+</rss>
