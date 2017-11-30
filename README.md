@@ -39,7 +39,12 @@ Uncheck a couple of [project options](https://bookdown.org/yihui/blogdown/rstudi
 
 # Push to GitHub
 
-Using RStudio's Git interface, use checkboxes to add files and directories, commit, then push to GitHub by pressing the Push button.
+```
+tjf2n@TJF:~/Keep/www/freshstart.com.au/freshstart$ 
+git add *
+git commit -m "foo"
+git push https://github.com/tjfinney/fresh-start
+```
 
 # Deploy with Netlify
 

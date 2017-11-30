@@ -39,13 +39,3 @@ When?
 : Thursdays 10 am - 12 noon during school terms
 
 ![Map for Fremantle Support Group](/img/map-Freo.png)
-
-## Mundaring Group
-
-Where?
-: Mundaring Church of Christ, 1470 Stoneville Road, Mundaring
-
-When?
-: Sundays 5.30 - 8.00 pm during school terms
-
-![Map for Mundaring Support Group](/img/map-Mundaring.png)
